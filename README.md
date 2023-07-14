@@ -85,7 +85,7 @@
   </a>
 </p>
 
-### <picture> <img src = "" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "" width = 50px>  </picture> Web Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -103,9 +103,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-</p>
-###<picture> <img src = "https://github.com/youssefmohamedabas" width = 50px>  </picture> </picture> Back-end Development
-<p align="center"> 
+
+
+
 &emsp;
 <a href="https://laravel.com" target="_blank">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
