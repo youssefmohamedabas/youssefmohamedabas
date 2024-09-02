@@ -29,8 +29,8 @@
 - :school: I am a `Junior` at [Faculty of Computers & artificial intelligence](http://www.fci.cu.edu.eg/) at [Cairo University](https://cu.edu.eg/ar/Home).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Information Science`.
-- :nerd_face: Always `learning new things`.
+- :student: I’m currently Graduated from  `Computer Science` and Major `Information Science`.
+- :nerd_face: Laravel Back-End Developer `.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/z-warriors-4b3a96278/).
 <br>
 
