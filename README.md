@@ -47,6 +47,8 @@
 	<a href="https://www.linkedin.com/in/dev1youssefabas/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100007554587761"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"/></a>
 	<a href="https://www.instagram.com/yousseff_abas/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"/></a>
+	<a href="https://youssefmohamedabas.github.io/StaticPortfolio/"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+	
 </p>
 
 ---
@@ -67,6 +69,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LiveWire-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
 </p>
 
@@ -82,7 +85,7 @@
 </p>
 ### 🧰 Scrapping
 <p align="center">
-  <
+  
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"/>
  
 </p>
