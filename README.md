@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
 </p>
 
-### 🧰 Scrapping
+### ⚙️ Scrapping
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"/>
 </p>
