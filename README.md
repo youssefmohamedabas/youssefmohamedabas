@@ -128,10 +128,7 @@
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefmohamedabas&theme=tokyonight_duo" alt="GitHub Streak Stats"/></p>
 </details>
 
-<details>
-  <summary><h3>💻 Profile Statistics</h3></summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssefmohamedabas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></p>
-</details>
+
 
 ---
 
