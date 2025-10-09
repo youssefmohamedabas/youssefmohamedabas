@@ -53,31 +53,24 @@
 
 ## 🛠️ Skills Overview
 
-### 💬 Programming Languages
+### 💬 Programming Languages And FrameWorks
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+	
 </p>
 
 ### 🌍 Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
 </p>
 
-### 🧱 Oracle & ERP Development Expertise
-<p align="center"> 
-	<img src="https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/>
-	<img src="https://img.shields.io/badge/PL%2FSQL-%23007396.svg?style=plastic&logo=databricks&logoColor=white"/>
-	<img src="https://img.shields.io/badge/ERP%20Systems-%233776AB.svg?style=plastic&logo=windows-terminal&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=plastic&logo=database&logoColor=white"/>
-</p>
+### 🧱 Oracle, Database & ERP Development Expertise
+<p align="center"> <img src="https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-%23007396.svg?style=plastic&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/ERP%20Systems-%233776AB.svg?style=plastic&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Warehouse-%230083B3.svg?style=plastic&logo=apache%20hive&logoColor=white"/> <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=plastic&logo=database&logoColor=white"/> </p> <p align="center"> 💪 Strong expertise in **Database Design, SQL Optimization, and Data Warehousing** for enterprise-scale applications. Experienced in **ETL processes, data modeling, and building analytical dashboards** using Oracle APEX and PL/SQL. </p>
 
 ### 🧰 Tools & Frameworks
 <p align="center">
@@ -101,9 +94,7 @@
 ### 🧩 Competitive Programming
 <p align="center">
   <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodinGame-%23F2BB13.svg?style=plastic&logo=codingame&logoColor=black"/>
 </p>
 
@@ -112,7 +103,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=plastic&logo=pop!_os&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMWare-%2348B9C7.svg?style=plastic&logo=pop!_os&logoColor=white"/>
   <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=plastic&logo=manjaro&logoColor=white"/>
 </p>
 
