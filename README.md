@@ -70,6 +70,15 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
 </p>
 
+### 🧱 Oracle & ERP Development Expertise
+<p align="center"> 
+	<img src="https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/PL%2FSQL-%23007396.svg?style=plastic&logo=databricks&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ERP%20Systems-%233776AB.svg?style=plastic&logo=windows-terminal&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=plastic&logo=database&logoColor=white"/>
+</p>
+
 ### 🧰 Tools & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
