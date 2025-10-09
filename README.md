@@ -82,6 +82,12 @@
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
 </p>
+### 🧰 Scrapping
+<p align="center">
+  <
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"/>
+ 
+</p>
 
 ### 💡 IDEs
 <p align="center">
