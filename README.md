@@ -1,238 +1,135 @@
-<h1 align="center">Hi , I'm Youssef abas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Laravel+Developer;Expert+in+Complex+Systems;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
-</p>
-
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am a `Junior` at [Faculty of Computers & artificial intelligence](http://www.fci.cu.edu.eg/) at [Cairo University](https://cu.edu.eg/ar/Home).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, [HackerRank](https://www.hackerrank.com/profile/youssefabas72).
-- :student: I’m currently Graduated from  `Computer Science` and Major `Information Science`.
-- :nerd_face: Laravel Back-End Developer ,Oracle App Developer, PLSQL Developer ERP Systems.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY LinkedIn](https://www.linkedin.com/in/dev1youssefabas/).
-<br>
-
-
-## <picture> <img src="https://github.com/youssefmohamedabas" width=40> </picture> My Competitive Programming Profiles
+<h1 align="center">Hi, I'm Youssef Abas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
-
-## <picture> <img src="https://github.com/youssefmohamedabas" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:youssefabas72@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/youssefmohamedabas"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201129395231"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/dev1youssefabas/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100007554587761"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/yousseff_abas/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp;
-	<a href="https://www.php.net" target="_blank">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-</a>
-	 &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-	
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Graduate;Laravel+Developer;PL/SQL+and+Oracle+App+Developer;Expert+in+Complex+Systems;Competitive+Programmer+(CodeChef+5⭐);Always+Learning+and+Building+New+Things">
   </a>
 </p>
 
-### <picture> <img src = "" width = 50px>  </picture> Web Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-&emsp;
-<a href="https://laravel.com" target="_blank">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
-</a>
-&emsp;
-
-
-</p>
-
-
- ### <picture> <img src = "" width = 50px>  </picture> Software & Tools
- 
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=youssefmohamedabas&label=Profile%20Views&color=0047AB&style=plastic" alt="Profile Views" height="25px" width="160px"/>
 </p>
-
- ### <picture> <img src = "" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
-
- ### <picture> <img src = "" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
-
-<br> 
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+- 🎓 I hold a **Bachelor’s degree in Computer Science & Artificial Intelligence** from [Cairo University](https://cu.edu.eg/ar/Home).  
+- 💻 Passionate about using **technology to solve real-world problems**.  
+- ⚙️ Skilled in **Laravel Back-End Development, Oracle App Development, and PL/SQL for ERP Systems**.  
+- 🧠 Experienced in **AI, NLP, and data-driven systems**.  
+- 🚀 Always eager to learn and adopt **new technologies**.  
+- 💼 Currently open to new **software engineering opportunities** → [LinkedIn Profile](https://www.linkedin.com/in/dev1youssefabas/).  
+
+---
+
+## 🧩 Competitive Programming Profiles
+
+<p align="center">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  <img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60px"/>
+  <img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef"/>
+  <img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC" width="60px"/>
+  <img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src = "https://github.com/youssefmohamedabas" width = 50px>  </picture> Github Stats
+---
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+## 🌐 Connect with Me
 
-----	
+<p align="center">
+	<a href="mailto:youssefabas72@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
+	<a href="https://github.com/youssefmohamedabas"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
+	<a href="https://wa.me/201129395231"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/dev1youssefabas/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100007554587761"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"/></a>
+	<a href="https://www.instagram.com/yousseff_abas/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"/></a>
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+---
 
+## 🛠️ Skills Overview
+
+### 💬 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+</p>
+
+### 🌍 Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
+</p>
+
+### 💡 IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=plastic&logo=atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white"/>
+</p>
+
+### 🧩 Competitive Programming
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodinGame-%23F2BB13.svg?style=plastic&logo=codingame&logoColor=black"/>
+</p>
+
+### 🖥️ Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=plastic&logo=pop!_os&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=plastic&logo=manjaro&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<details>
+  <summary><h3>🔥 Streak Stats</h3></summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefmohamedabas&theme=tokyonight_duo" alt="GitHub Streak Stats"/></p>
 </details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
-
+<details>
+  <summary><h3>💻 Profile Statistics</h3></summary>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssefmohamedabas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+---
 
-----
-	
-
-
-
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-
-</div>
-</details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "" alt = "Snake Game"/>
+## 🐍 My Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
