@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white"/>
 	
 </p>
 
@@ -72,13 +73,12 @@
 ### 🧱 Oracle, Database & ERP Development Expertise
 <p align="center"> <img src="https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-%23007396.svg?style=plastic&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/ERP%20Systems-%233776AB.svg?style=plastic&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Warehouse-%230083B3.svg?style=plastic&logo=apache%20hive&logoColor=white"/> <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=plastic&logo=database&logoColor=white"/> </p> <p align="center"> 💪 Strong expertise in **Database Design, SQL Optimization, and Data Warehousing** for enterprise-scale applications. Experienced in **ETL processes, data modeling, and building analytical dashboards** using Oracle APEX and PL/SQL. </p>
 
-### 🧰 Tools & Frameworks
+### 🧰 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
 </p>
