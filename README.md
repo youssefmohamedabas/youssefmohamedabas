@@ -18,7 +18,9 @@
 
 - 🎓 I hold a **Bachelor’s degree in Computer Science & Artificial Intelligence** from [Cairo University](https://cu.edu.eg/ar/Home).  
 - 💻 Passionate about using **technology to solve real-world problems**.  
-- ⚙️ Skilled in **Laravel Back-End Development, Oracle App Development, and PL/SQL for ERP Systems**.  
+- ⚙️ Skilled in **Laravel Back-End Development**.
+- 💼 Transitioned into a highly specialized focus on the **Oracle Ecosystem**, currently driving **Macro SQL projects, Oracle EBS, and Fusion Reporting**.
+- 🏆 **Certified in Oracle APEX** and formally trained in **Oracle Integration Cloud (OIC) & Visual Builder Cloud Service (VBCS)** through Global Academy.
 - 🧠 Experienced in **AI, NLP, and data-driven systems**.  
 - 🚀 Always eager to learn and adopt **new technologies**.  
 - 💼 Currently open to new **software engineering opportunities** → [LinkedIn Profile](https://www.linkedin.com/in/dev1youssefabas/).  
@@ -65,6 +67,10 @@
 	
 </p>
 
+
+### 🧱 Oracle, Database & ERP Development Expertise
+<p align="center"> <img src="https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-%23007396.svg?style=plastic&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/ERP%20Systems-%233776AB.svg?style=plastic&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Warehouse-%230083B3.svg?style=plastic&logo=apache%20hive&logoColor=white"/> <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=plastic&logo=database&logoColor=white"/> </p> <p align="center"> 💪 Strong expertise in **Database Design, SQL Optimization, and Data Warehousing** for enterprise-scale applications. Experienced in **ETL processes, data modeling, and building analytical dashboards** using Oracle APEX and PL/SQL. </p>
+
 ### 🌍 Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
@@ -73,8 +79,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
 </p>
 
-### 🧱 Oracle, Database & ERP Development Expertise
-<p align="center"> <img src="https://img.shields.io/badge/Oracle%20Database-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20APEX-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-%23007396.svg?style=plastic&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/ERP%20Systems-%233776AB.svg?style=plastic&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Warehouse-%230083B3.svg?style=plastic&logo=apache%20hive&logoColor=white"/> <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=plastic&logo=database&logoColor=white"/> </p> <p align="center"> 💪 Strong expertise in **Database Design, SQL Optimization, and Data Warehousing** for enterprise-scale applications. Experienced in **ETL processes, data modeling, and building analytical dashboards** using Oracle APEX and PL/SQL. </p>
 
 ### 🧰 Tools
 <p align="center">
